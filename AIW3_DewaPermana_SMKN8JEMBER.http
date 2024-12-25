@@ -1,0 +1,6 @@
+@AIW3_DewaPermana_SMKN8JEMBER_HostAddress = http://localhost:5240
+
+GET {{AIW3_DewaPermana_SMKN8JEMBER_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
